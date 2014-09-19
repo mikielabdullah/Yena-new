@@ -1,0 +1,87 @@
+**Changelog:**
+
+**Version 3.5.1:**
+
+- Minor layout update in footer. (style.css)
+
+**Version 3.5:**
+
+- Changed 'style' folder name  to 'css'.
+- Changed 'font' foldername to 'fonts'.
+- Updated Font awesome icon plugin.
+- Updated Bootstrap and jQuery.
+- Included minified version of font awesome icon css, bootstrap js and css to all html files. 
+- Removed Font awesome icon support for IE 7 CSS.
+- Removed Google web font code from HTML files and added to style.css.
+- Added charset meta utf-8 in all html files.
+- Added 0-base file in theme.
+- Added weblit-font-smotting in css. (style.css)
+- Bug fix in carousel slider navigation arrow in project page. (project.html, style.css)
+- Bug fix in accordion panel in faq page. (faq.html, style.css, red.css, blue.css, brown.css, green.css, orange.css, pink.css)
+- Bug fix in accordion panel in events page. (events.html, style.css, red.css, blue.css, brown.css, green.css, orange.css, pink.css)
+- Style feature2.html page items icon. (style.css)
+- Added revolution slider in index.html page. (index.html, sytle.css)
+- Added scroll to top in theme. (all .html files, style.css, custom.js)
+- Updated Image in about page and team page. (about.html, team.html)
+- Added new font in stylesheet. (style.css)
+- Updated footer social media links and list icon style in all html files. (all .html files, style.css, red.css, blue.css, brown.css, green.css, orange.css, pink.css)
+- Updated navbar style. (style.css)
+- Blog comments image size. (style.css)
+- Added new class "bthumbleft" to blog1 html page. (blog1.html & style.css)
+- Reduced the height of progress bar in review page. (style.css)
+- Added padding to support page filter input box. (style.css)
+- Added padding and border in career page tabs. (style.css)
+- Changed clients image in index.html, index1.html, index-rslider.html, clients.html file. (HTML, style.css)
+- Updated spacing of subscribe form in coming-soon page. (style.css)
+- Updated spacing of accordion pannel title in events page. (style.css)
+- Changed images in feature 2 page and project page. (feature1.html, project.html)
+- Updated font-weight for all forms label. (style.css)
+- Updated clients page. (clients.html, style.css)
+- Added documentation.
+
+**Version 3.0:**
+
+- Updated to Bootstrap Version 3.0
+
+**Version 2.9.1:**
+
+- Twitter Feed Removed because of recent Twitter API Update.
+
+**Version 2.9:**
+
+- Button Fix. (style.css)
+- Navigation bar fix. Added the extra class "collapse" in <div class="nav-collapse collapse"> (All HTML files).
+- Portfolio fix. (gallery.html, portfolio.html, portfolio1.html, portfolio2.html, custom.js)
+
+**Version 2.8:**
+
+- Bootstrap updated to 2.2.2.
+- Button Fix. (style.css)
+- Navbar Fixed.
+
+**Version 2.6:**
+
+- Removed reference to default Bootstrap Gly Icons (Bootstrap.css file).
+- About Page Icon fix. (style.css)
+- Service Page Icon fix. (style.css)
+
+**Version 2.5.1:**
+
+- Minor Bug fixes in Stylesheet.
+- Fixed Button Color Issue.
+
+**Version 2.5:**
+
+- Plugins Update.
+- OnHover navigation changed to OnClick Navigation.
+- Brown Color Enhanced. 
+
+**Version 2.0:**
+
+- Updated to Bootstrap 2.2.0.
+- 22 New Pages.
+- Parallax Content Slider.
+
+**Version 1.0:**
+
+- Initial Release.

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Untitled</title>
+</head>
+<body>
+
+<div class="rposts">
+				   <h4>Gallery</h4>
+					<div class="row">
+						<div class="col-md-3 col-sm-6 col-xs-12">
+							<div class="rpost1">
+								<div class="rimg">
+									<img src="img/photos/r1.jpg" alt="" class="img-responsive" />
+								</div>
+								<!-- Title & Para -->
+								<div class="rdetails">
+								   <h5>Safe Transport</h5>
+								   <p></p>
+								</div>
+							</div>
+						</div>
+						 
+						<div class="col-md-3 col-sm-6 col-xs-12">
+							<div class="rpost1">
+								<div class="rimg">
+								   <img src="img/photos/r1.jpg" alt="" class="img-responsive" />
+								</div>
+								<div class="rdetails">
+								   <h5>Fast Transport</h5>
+								   <p></p>
+								</div>                     
+							</div>   
+						</div>
+						 
+				   
+						<div class="col-md-3 col-sm-6 col-xs-12">
+							<div class="rpost1">
+								<div class="rimg">
+								   <img src="img/photos/r1.jpg" alt="" class="img-responsive" />
+								</div>
+								<div class="rdetails">
+								   <h5>Reliable Transport</h5>
+								   <p></p>
+								</div>
+							</div>
+						</div>  
+						
+						<div class="col-md-3 col-sm-6 col-xs-12">
+							<div class="rpost1">
+								<div class="rimg">
+								   <img src="img/photos/r1.jpg" alt="" class="img-responsive" />
+								</div>
+								<div class="rdetails">
+								   <h5>Any Transport</h5>
+								   <p></p>
+								</div>                     
+							</div>  
+						</div>
+				   </div>
+				</div>
+				
+				<!-- Recent post ends -->         
+
+				<div class="testimonial">
+					<div class="container">
+						 <div class="row">
+							<div class="col-md-4 col-sm-4">
+							   <!-- Testimonial #1 -->
+							   <div class="test">
+								  Amazing! Simply Amazing! My Car Was Moved With Out a Scratch!
+								  
+							   </div>
+							   <div class="test-arrow"></div>
+							   <div class="tauth"><i class="fa fa-user"></i> Ravi, <span class="color">Google</span></div>
+							</div>
+							
+							<div class="col-md-4 col-sm-4">
+							   <!-- Testimonial #2 -->
+							   <div class="test">
+								  What a Great Service! I Can't Believe How Fast My Delivery Was!
+							   </div>
+							   <div class="test-arrow"></div>
+							   <div class="tauth"><i class="fa fa-user"></i> Ashok, <span class="color">Yahoo</span></div>
+							</div>
+
+							<div class="col-md-4 col-sm-4">
+							   <!-- Testimonial #3 -->
+							   <div class="test">
+								  WooWwwWY! Incredible Service!
+							   </div>
+							   <div class="test-arrow"></div>
+							   <div class="tauth"><i class="fa fa-user"></i> Santy, <span class="color">Facebook</span></div>
+							</div>                        
+						 </div>
+					  </div>
+					</div>
+
+					<div class="bor"></div>
+				<div class="testimonial">
+					<div class="container">
+						 <div class="row">
+							<div class="col-md-4 col-sm-4">
+							   <!-- Testimonial #1 -->
+							   <div class="test">
+								  Amazing! Simply Amazing! My Car Was Moved With Out a Scratch!
+								  
+							   </div>
+							   <div class="test-arrow"></div>
+							   <div class="tauth"><i class="fa fa-user"></i> Ravi, <span class="color">Google</span></div>
+							</div>
+							
+							<div class="col-md-4 col-sm-4">
+							   <!-- Testimonial #2 -->
+							   <div class="test">
+								  What a Great Service! I Can't Believe How Fast My Delivery Was!
+							   </div>
+							   <div class="test-arrow"></div>
+							   <div class="tauth"><i class="fa fa-user"></i> Ashok, <span class="color">Yahoo</span></div>
+							</div>
+
+							<div class="col-md-4 col-sm-4">
+							   <!-- Testimonial #3 -->
+							   <div class="test">
+								  WooWwwWY! Incredible Service!
+							   </div>
+							   <div class="test-arrow"></div>
+							   <div class="tauth"><i class="fa fa-user"></i> Santy, <span class="color">Facebook</span></div>
+							</div>                        
+						 </div>
+					  </div>
+					</div>
+
+					<div class="bor"></div>
+</body>
+</html>

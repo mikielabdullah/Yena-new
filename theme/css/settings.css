@@ -201,7 +201,7 @@ border-style: none;
 
 .tp-caption.huge_red {
 position:absolute;
-color:rgb(223,75,107);
+color:rgb(#fc3);
 font-weight:400;
 font-size:150px;
 line-height:130px;
@@ -477,7 +477,7 @@ padding:3px 10px;
 margin:0px;
 border-width:0px;
 border-style:none;
-background-color:#4e5b6c;
+background-color:#1bc;
 letter-spacing:0;
 }
 
@@ -494,7 +494,7 @@ padding-top:1px;
 margin:0px;
 border-width:0px;
 border-style:none;
-background-color:#de543e;
+background-color:#1bc;
 letter-spacing:0;
 }
 
@@ -1047,7 +1047,7 @@ border-style:none;
 										height: 0;
 										border-left: 40px solid transparent;
 										border-right: 0px solid transparent;
-										border-top: 40px solid #00A8FF;
+										border-top: 40px solid #fc1;
 										position: absolute;left:-40px;top:0px;
 									}
 
@@ -1056,7 +1056,7 @@ border-style:none;
 										height: 0;
 										border-left: 0px solid transparent;
 										border-right: 40px solid transparent;
-										border-bottom: 40px solid #00A8FF;
+										border-bottom: 40px solid #fc1;
 										position: absolute;right:0px;top:0px;
 									}
 
@@ -1065,7 +1065,7 @@ border-style:none;
 										height: 0;
 										border-left: 40px solid transparent;
 										border-right: 0px solid transparent;
-										border-bottom: 40px solid #00A8FF;
+										border-bottom: 40px solid #fc1;
 										position: absolute;left:-40px;top:0px;
 									}
 
@@ -1074,7 +1074,7 @@ border-style:none;
 										height: 0;
 										border-left: 0px solid transparent;
 										border-right: 40px solid transparent;
-										border-top: 40px solid #00A8FF;
+										border-top: 40px solid #fc1;
 										position: absolute;right:0px;top:0px;
 									}
 

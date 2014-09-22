@@ -101,6 +101,7 @@ a.btn-inverse,a.btn-inverse:visited,a.btn-inverse:hover{
 
 .container{
 	max-width:1000px;
+	
 }
 
 .facebook { background: #1e78ae !important; }
@@ -116,8 +117,14 @@ a.btn-inverse,a.btn-inverse:visited,a.btn-inverse:hover{
 
 header{
 padding:25px 0px 0px 0px;
+height:155px;
 border-bottom:1px solid #ddd;
 background-color: #fff;
+background-image: url('../img/bgtest.png'); 
+background-repeat: no-repeat;
+background-position:center;
+
+
 }
 
 header h1 a, header h1 a:visited, header h1 a:hover{
@@ -2179,6 +2186,7 @@ footer .social a {
    }
    .logo{
    margin:0 auto;
+   
    }
    .da-slide h2{
    width:100%;
